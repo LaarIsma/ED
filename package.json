@@ -1,0 +1,19 @@
+{
+  "name": "EdTech",
+  "version": "0.0.0",
+  "dependencies": {
+    "connect-mongo": "~0.4.0",
+    "ejs": "~0.8.4",
+    "express": "~3.4.3",
+    "gifsicle": "~3.0.4",
+    "lodash": "~2.4.1",
+    "mongoose": "~3.5.5",
+    "passport": "latest",
+    "passport-local": "latest",
+    "passport.socketio": "~2.2.1",
+    "socket.io": "~0.9.16"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
